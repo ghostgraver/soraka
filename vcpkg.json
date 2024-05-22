@@ -1,0 +1,27 @@
+{
+  "dependencies": [
+    "fmt",
+    "spdlog",
+    "doctest",
+    "ftxui"
+  ],
+  "overrides": [
+    {
+      "name": "fmt",
+      "version": "10.2.0"
+    },
+    {
+      "name": "spdlog",
+      "version": "1.13.0"
+    },
+    {
+      "name": "doctest",
+      "version": "2.4.11"
+    },
+    {
+      "name": "ftxui",
+      "version": "5.0.0"
+    }
+  ],
+  "builtin-baseline": "7eb700c9688daed6d8bdcdc571ebe3eedea6a774"
+}
